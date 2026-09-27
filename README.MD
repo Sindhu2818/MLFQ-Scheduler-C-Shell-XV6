@@ -651,11 +651,3 @@ The repository includes the resulting:
 ``` text
 xv6-riscv/mlfq_timeline.png
 ```
-
-------------------------------------------------------------------------
-
-## 7. AI Usage / Chat History
-
-The AI interaction history used during development is available here:
-
-https://docs.google.com/document/d/1AJMZd_5Svp2rA1YB8Hx3DyItqLnXP-4Rdx9kx6sCahg/edit?usp=sharing
